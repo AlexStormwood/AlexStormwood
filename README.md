@@ -13,7 +13,7 @@ Alex Holder is a driven autodidact who will master anything & everything require
 * [BigfootDS](https://bigfootds.com)
 * [Coder Academy](https://coderacademy.edu.au/)
 
-<img src="./assets/PPVRAtRTX2018.jpg" data-canonical-src="./assets/PPVRAtRTX2018.jpg" width="600" />
+<img src="/assets/PPVRAtRTX2018.jpg" data-canonical-src="/assets/PPVRAtRTX2018.jpg" width="600" />
 
 
 
@@ -25,7 +25,7 @@ He currently works as an educator & course developer for Coder Academy, covering
 
 Alex also runs BigfootDS, a game development studio with a focus on VR and console game products. Recent releases include a VR game across multiple headsets & platforms, and upcoming projects targeting Nintendo Switch & other console platforms.
 
-<img src="./assets/TBB001.png" data-canonical-src="./assets/TBB001.png" width="600" />
+<img src="/assets/TBB001.png" data-canonical-src="/assets/TBB001.png" width="600" />
 
 By both teaching & developing, Alex has the communication skills needed to help anyone learn anything, and to help anyone create anything.
 
@@ -42,5 +42,5 @@ With the design & tech knowledge to cover the gamedev pipeline himself, Alex has
 
 
 
-<img src="./assets/PPVRMonumentModePoster.jpg" data-canonical-src="./assets/PPVRMonumentModePoster.jpg" width="600" />
+<img src="/assets/PPVRMonumentModePoster.jpg" data-canonical-src="/assets/PPVRMonumentModePoster.jpg" width="600" />
 
