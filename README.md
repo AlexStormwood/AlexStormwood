@@ -13,8 +13,9 @@ Alex Holder is a driven autodidact who will master anything & everything require
 * [BigfootDS](https://bigfootds.com)
 * [Coder Academy](https://coderacademy.edu.au/)
 
+<p align="center">
 <img src="https://github.com/AlexHolderDeveloper/AlexHolderDeveloper/raw/master/assets/PPVRAtRTX2018.jpg" data-canonical-src="https://github.com/AlexHolderDeveloper/AlexHolderDeveloper/raw/master/assets/PPVRAtRTX2018.jpg" width="600" />
-
+</p>
 
 
 ## About
@@ -25,8 +26,9 @@ He currently works as an educator & course developer for Coder Academy, covering
 
 Alex also runs BigfootDS, a game development studio with a focus on VR and console game products. Recent releases include a VR game across multiple headsets & platforms, and upcoming projects targeting Nintendo Switch & other console platforms.
 
+<p align="center">
 <img src="https://github.com/AlexHolderDeveloper/AlexHolderDeveloper/raw/master/assets/TBB001.png" data-canonical-src="https://github.com/AlexHolderDeveloper/AlexHolderDeveloper/raw/master/assets/TBB001.png" width="600" />
-
+</p>
 By both teaching & developing, Alex has the communication skills needed to help anyone learn anything, and to help anyone create anything.
 
 
@@ -41,6 +43,6 @@ With the design & tech knowledge to cover the gamedev pipeline himself, Alex has
 * Using data-oriented design to increase performance in both singleplayer & multiplayer game projects with Unity's new DOTS systems
 
 
-
+<p align="center">
 <img src="https://github.com/AlexHolderDeveloper/AlexHolderDeveloper/raw/master/assets/PPVRMonumentModePoster.jpg" data-canonical-src="https://github.com/AlexHolderDeveloper/AlexHolderDeveloper/raw/master/assets/PPVRMonumentModePoster.jpg" width="600" />
-
+</p>
