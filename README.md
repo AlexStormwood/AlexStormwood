@@ -1,10 +1,10 @@
-# Alex Holder
+# Alex Holder 😎
 
 Alex Holder is a driven autodidact who will master anything & everything required to get work done. His skillset currently covers a vast range of areas ranging from 3D animation to live-operations platform development, with all sorts of tech & tools under his belt such as C#, JavaScript, Ruby, ExpressJS, Ruby on Rails, Unity, GCP, AWS and more!
 
 
 
-## Quick Links
+## Quick Links ⚡
 
 * [LinkedIn](http://www.linkedin.com/in/alexholderdev)
 
@@ -18,7 +18,7 @@ Alex Holder is a driven autodidact who will master anything & everything require
 </p>
 
 
-## About
+## About 🎮
 
 He currently works as an educator & course developer for Coder Academy, covering web development, game development, and various other STEM topics. His courses have reached a huge variety of ages & audiences, in all ranges of education from primary school to university & even staff development.
 
