@@ -8,7 +8,7 @@ Alex Holder is a driven autodidact who will master anything & everything require
 
 * [LinkedIn](http://www.linkedin.com/in/alexholderdev)
 
-* [Twitter](https://twitter.com/AlexHolderDev )
+* [Twitter](https://twitter.com/AlexHolderDev)
 
 * [BigfootDS](https://bigfootds.com)
 * [Coder Academy](https://coderacademy.edu.au/)
