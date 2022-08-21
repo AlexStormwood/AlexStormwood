@@ -2,7 +2,7 @@
 
 Alex Holder is a driven autodidact who will master anything & everything required to get work done. His skillset currently covers a vast range of areas ranging from 3D animation to live-operations platform development, with all sorts of tech & tools under his belt such as C#, JavaScript, Ruby, ExpressJS, Ruby on Rails, Unity, GCP, AWS and more!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHolderDeveloper&hide=objective-c%2B%2B,mathematica,procfile&langs_count=10&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHolderDeveloper&hide=objective-c%2B%2B,mathematica,procfile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Quick Links ⚡
 
