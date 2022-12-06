@@ -78,19 +78,31 @@ High-school job but it's so cool I can't leave it out. Helping clients with audi
 
 ## Education
 
-### Graduate Diploma (AQF 8) of Management, Learning Major @ Academy of Interactive Entertainment, 2017-2017
+### Graduate Diploma (AQF 8) of Management, Learning Major 
+
+- @ Academy of Interactive Entertainment
+- 2017-2017
 
 Post-graduate studies to help transform BigfootDS into an actual game development & publishing business.  
 
-### Bachelor of Interactive Media (AQF 7), Game Design Major @ Academy of Information Technology, 2015-2016
+### Bachelor of Interactive Media (AQF 7), Game Design Major
+
+- @ Academy of Information Technology
+- 2015-2016
 
 RPL from QUT studies. Accelerated degree. Valedictorian of graduating class. Focused more on programming and 3D design.
 
-### Bachelor of Games and Interactive Environments (AQF 7), Animation Major @ Queensland University of Technology, 2013-2014
+### Bachelor of Games and Interactive Environments (AQF 7), Animation Major
+
+- @ Queensland University of Technology
+- 2013-2014
 
 Incomplete degree but skills gained still useful. Focused on 3D animation.
 
-### Queensland Certificate of Education @ Caloundra State High School, 2007-2012
+### Queensland Certificate of Education 
+
+- @ Caloundra State High School
+- 2007-2012
 
 High school! Cultural Captain of 2012, member of the string ensemble (double bass) and school orchestra (trombone).
 
