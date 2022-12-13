@@ -9,16 +9,8 @@
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a
-    href="https://twitter.com/AlexHolderDev"
-    target="_blank">
-    <img
-      alt="Twitter"
-      src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-    />
-  </a>
-
 </p>
+
 Alex Holder is a driven autodidact who will master anything & everything required to get work done. His skillset currently covers a vast range of areas ranging from 3D animation to live-operations platform development, with all sorts of tech & tools under his belt such as C#, JavaScript, Ruby, ExpressJS, Ruby on Rails, Unity, GCP, AWS and more!
 
 
@@ -78,7 +70,7 @@ High-school job but it's so cool I can't leave it out. Helping clients with audi
 
 ## Education
 
-### Graduate Diploma (AQF 8) of Management, Learning Major 
+### Graduate Diploma of Management (AQF 8), Learning Major 
 
 - @ Academy of Interactive Entertainment
 - 2017-2017
