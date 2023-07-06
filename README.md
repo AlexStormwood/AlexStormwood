@@ -2,7 +2,7 @@
 
 <p align="center">
   <a
-    href="https://www.linkedin.com/in/alexholderdev/"
+    href="https://www.linkedin.com/in/alexstormwood/"
     target="_blank">
     <img
       alt="LinkedIn"
