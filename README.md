@@ -1,4 +1,4 @@
-# Alex Holder 😎
+# Alex Stormwood (Alex Holder) 😎
 
 <p align="center">
   <a
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Alex Holder is a driven autodidact who will master anything & everything required to get work done. His skillset currently covers a vast range of areas ranging from 3D animation to live-operations platform development, with all sorts of tech & tools under his belt such as C#, JavaScript, Ruby, ExpressJS, Ruby on Rails, Unity, GCP, AWS and more!
+Alex is a driven autodidact who will master anything & everything required to get work done. His skillset currently covers a vast range of areas ranging from 3D animation to live-operations platform development, with all sorts of tech & tools under his belt such as C#, JavaScript, Ruby, ExpressJS, Ruby on Rails, Unity, GCP, AWS and more!
 
 
 ## Work History
