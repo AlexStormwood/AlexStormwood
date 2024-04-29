@@ -27,7 +27,11 @@
   </a>
 </p>
 
-Alex is a driven autodidact who will master anything & everything required to get work done. His comfort zone involves a lot of C# and JavaScript, but Alex is always willing to learn new technology if it means he can build something or help others grow!
+Alex is a driven autodidact who will master anything & everything required to get work done. 
+
+His comfort zone involves a lot of C# and JavaScript, but Alex is always willing to learn new technology if it means he can build something or help others grow!
+
+<br />
 
 ## Alex is currently...
 
