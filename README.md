@@ -44,11 +44,13 @@ Alex is a driven autodidact who will master anything & everything required to ge
 
 - Graduate Diploma of Management (AQF 8), Learning Major @ Academy of Interactive Entertainment, 2017-2017
 - Bachelor of Interactive Media (AQF 7), Game Design Major @ Academy of Information Technology, 2015-2016
+  - Also includes transferred studies from a Bachelor of Interactive Entertainment, 3D Animation Major @ QUT, 2013-2014
 - Unity Certified Developer, 2018
 - Basic first aid training, 2022
   - HLTAID011 Provide First Aid
   - HLTAID010 Provide basic emergency life support
-  - HTLAID009 Provide cardiopulmonary resuscitation 
+  - HTLAID009 Provide cardiopulmonary resuscitation
+- Working With Children Check (New South Wales, Australia), 2017-ongoing, renewed every time
 
 ## Alex has used...
 
