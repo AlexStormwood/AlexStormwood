@@ -12,5 +12,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: "https://alexstormwood.com/rss"
+                feed_list: "https://alexstormwood.com/rss.xml"
                 readme_path: ./README.md
