@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Alex Stormwood GitHub Profile Page
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alex
+    family-names: Stormwood
+    email: alex@bigfootds.com
+    affiliation: BigfootDS
+    orcid: 'https://orcid.org/0009-0008-2183-7041'
+repository-code: 'https://github.com/AlexStormwood/AlexStormwood'
+url: 'https://github.com/AlexStormwood'
+abstract: >-
+  An implementation of special GitHub folders and files that
+  become a generated profile page for a user account on the
+  GitHub website.
+keywords:
+  - github
+  - code
+  - profile
+  - markdown
+  - html
+license: MIT
+version: 1.0.0
+date-released: '2025-02-02'
