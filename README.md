@@ -21,8 +21,8 @@
 <a href="https://www.youtube.com/c/alexstormwood" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexstormwood" height="30" width="40" />
 </a>
-<a href="/https://alexstormwood.com/rss" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://alexstormwood.com/rss" height="30" width="40" />
+<a href="/https://alexstormwood.com/rss.xml" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://alexstormwood.com/rss.xml" height="30" width="40" />
 </a>
 </p>
 
