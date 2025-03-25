@@ -5,6 +5,7 @@
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [Helping Others Cite, Reference, or Attribute Your Software](https://alexstormwood.com/articles/helpingothersciteyoursoftware/)
 - [Compiled ReactJS with Astro](https://alexstormwood.com/articles/compiledreactjswithastro/)
 - [Zero-Dependency NodeJS Logging](https://alexstormwood.com/articles/nodejslogging/)
 - [Does your videogame need a blockchain?](https://alexstormwood.com/articles/doesyourvideogameneedablockchain/)
