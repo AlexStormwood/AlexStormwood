@@ -87,6 +87,12 @@
 - [NPM Compliance Helper, a helper package for project licensing and compliance in CI/CD/CC tools.](https://github.com/BigfootDS/npm-compliance-helper)
 - [ReactJS GamePad Utilities, a foundational package for game projects built with web technologies.](https://github.com/BigfootDS/react-gamepad-utils)
 
+### Resources
+
+- [Awesome Repos, a collection of repositories useful for specific tags, lists, and topics.](https://github.com/AlexStormwood/awesome-repos)
+- [Hackathon Archive, a collection of historical hackathons, game jams, and similar events to help you find design inspirations.](https://github.com/AlexStormwood/hackathon-archive)
+- [Alex's Agentic Skills, a collection of my own custom agentic AI skills that should work with typical agentic systems.](https://github.com/AlexStormwood/agentic-skills)
+
 ### Appearances & Work Lists
 
 More information about Alex's projects can be found on his website:
