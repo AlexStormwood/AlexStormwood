@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [Escaping Engine Lock-In: Open-Source Tech Stacks](https://alexstormwood.com/articles/202610-escapingenginelockin/)
 - [2025 November Japan Trip - Week 4](https://alexstormwood.com/articles/202511-japan-006/)
 - [2025 November Japan Trip - Week 3](https://alexstormwood.com/articles/202511-japan-005/)
 - [2025 November Japan Trip - Week 2](https://alexstormwood.com/articles/202511-japan-004/)
 - [2025 November Japan Trip - Week 1 Part 2](https://alexstormwood.com/articles/202511-japan-003/)
-- [2025 November Japan Trip - Week 1 Part 1](https://alexstormwood.com/articles/202511-japan-002/)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
